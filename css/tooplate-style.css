@@ -526,10 +526,10 @@ b, strong {
 }
 @media (max-width: 580px) {
 	.animated-info {
-		min-width: 380px;
+		min-width: 350px;
 	}
   .animated-item {
-    font-size: 37px;
+    font-size: 34px;
   }
 
   .custom-btn-group {
